@@ -1,0 +1,7 @@
+kivy>=2.3.0
+kivymd>=2.0.0
+jdatetime>=4.1.0
+pillow>=10.0.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+reportlab>=4.0.0
